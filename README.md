@@ -1,7 +1,7 @@
 # WWC - WebWave Creations
 
 <p align="center">
-<a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="WWC - WebWave Creations" border="0"></a>
+<a href= "https://www.fecap.br/"><img src="jpg.jfif" alt="WWC - WebWave Creations" border="0"></a>
 </p>
 
 # Cem Vezes Mais

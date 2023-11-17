@@ -16,7 +16,7 @@
 ## Descrição
 
 <p align="center">
-<img src="jpg.jfif" alt="WWC" border="0">
+<img src="imagens/jpg.jfif" alt="WWC" border="0">
 -
 </p>
 

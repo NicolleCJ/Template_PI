@@ -1,14 +1,15 @@
 # FECAP - Fundação de Comércio Álvares Penteado
 
 <p align="center">
-<a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
+<a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="WWC - WebWave Creations" border="0"></a>
 </p>
 
 # Nome do Projeto
 
 ## Nome do Grupo
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://www.linkedin.com/in/ana-flavia-lor%C3%AAdo-9629b5210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Ana Flávia Lorêdo</a>,<a href="https://www.linkedin.com/in/eduardo-fraga-santos?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Eduardo Fraga</a>, <a href="https://www.linkedin.com/in/gabriel-berto-167475141?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Gabriel Berto</a>, <a href="www.linkedin.com/in/nicolle-costa-a85100211">Nicolle Costa</a>, <a href="">Paulo</a>
+
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
@@ -20,11 +21,7 @@
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
+O projeto Cem Vezes Mais tem a missão de, por meio do esporte, cultura e educação, ajudar na transformação de vidas e inclusão social de crianças, adolescentes e jovens de comunidades vulneráveis.
 <br><br>
 
 ## 🛠 Estrutura de pastas
@@ -44,10 +41,6 @@ May the force be with you!
   &emsp;|-->Frontend<br>
 |readme.md<br>
 
-A pasta raiz contem dois arquivos que devem ser alterados:
-
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
-
 Há também 4 pastas que seguem da seguinte forma:
 
 <b>documentos</b>: Toda a documentação estará nesta pasta.
@@ -60,36 +53,22 @@ Há também 4 pastas que seguem da seguinte forma:
 
 ## 🛠 Instalação
 
-<b>Android:</b>
-
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
 <b>Windows:</b>
 
 Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+Encontre o Projeto.exe na pasta executáveis e execute-o como qualquer outro programa.
 
 ```sh
 Coloque código do prompt de comnando se for necessário
 ```
 
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
-
 ## 💻 Configuração para Desenvolvimento
-
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
 
 Para abrir este projeto você necessita das seguintes ferramentas:
 
--<a href="https://godotengine.org/download">GODOT</a>
+-<a href="[https://godotengine.org/download](https://nodejs.org/en/blog/release/v16.13.0)">NODE v16.13.0</a>
+-<a href="https://dev.mysql.com/downloads/installer/">MySQL 8.0.34</a>
+-<a href="https://docs.docker.com/engine/release-notes/24.0/">Docker v24.0.6</a>
 
 ```sh
 make install

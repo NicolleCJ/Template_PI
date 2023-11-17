@@ -1,23 +1,23 @@
-# FECAP - Fundação de Comércio Álvares Penteado
+# WWC - WebWave Creations
 
 <p align="center">
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="WWC - WebWave Creations" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Cem Vezes Mais
 
-## Nome do Grupo
+## WWC - WebWave Creations
 
-## Integrantes: <a href="https://www.linkedin.com/in/ana-flavia-lor%C3%AAdo-9629b5210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Ana Flávia Lorêdo</a>,<a href="https://www.linkedin.com/in/eduardo-fraga-santos?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Eduardo Fraga</a>, <a href="https://www.linkedin.com/in/gabriel-berto-167475141?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Gabriel Berto</a>, <a href="www.linkedin.com/in/nicolle-costa-a85100211">Nicolle Costa</a>, <a href="">Paulo</a>
+## Integrantes: <a href="https://www.linkedin.com/in/ana-flavia-lor%C3%AAdo-9629b5210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Ana Flávia Lorêdo</a>,<a href="https://www.linkedin.com/in/eduardo-fraga-santos?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Eduardo Fraga</a>, <a href="https://www.linkedin.com/in/gabriel-berto-167475141?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Gabriel Berto</a>, <a href="www.linkedin.com/in/nicolle-costa-a85100211">Nicolle Costa</a>, <a href="">Paulo Carvalho</a>
 
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander</a>, <a href="">Adriano Felix Valente</a>, <a href="">Eduardo Savino</a>, <a href="">Aimar Martins Lopes</a>
 
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+<img src="" alt="WWC" border="0">
+-
 </p>
 
 
@@ -56,10 +56,10 @@ Há também 4 pastas que seguem da seguinte forma:
 <b>Windows:</b>
 
 Não há instalação! Apenas executável!
-Encontre o Projeto.exe na pasta executáveis e execute-o como qualquer outro programa.
+Encontre o arquivo "app.js" e execute o arquivo no prompt com o comando "node app.js" no prompt e verifique que está no diretório do arquivo
 
 ```sh
-Coloque código do prompt de comnando se for necessário
+node app.js
 ```
 
 ## 💻 Configuração para Desenvolvimento

@@ -29,19 +29,14 @@ O projeto Cem Vezes Mais tem a missão de, por meio do esporte, cultura e educa�
 -Raiz<br>
 |<br>
 |-->documentos<br>
-  &emsp;|-->antigos<br>
   &emsp;|Documentação.docx<br>
 |-->executáveis<br>
   &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
 |-->imagens<br>
 |-->src<br>
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
 |readme.md<br>
-
-Há também 4 pastas que seguem da seguinte forma:
 
 <b>documentos</b>: Toda a documentação estará nesta pasta.
 
@@ -73,25 +68,24 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 ```sh
 make install
 npm test
-Coloque código do prompt de comnando se for necessário
+Coloque código do prompt de comando se for necessário
 ```
 
 ## 🗃 Histórico de lançamentos
 
 A cada atualização os detalhes devem ser lançados aqui.
 
-* 0.2.1 - 25/01/2022
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.2.0 - 15/01/2022
-    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0 - 10/01/2022
+* 0.2.1 - 09/09/2023
+    * ATUALIZAÇÃO: Início do protótipo no figma.
+* 0.2.0 - 21/09/2023
+    * ATUALIZAÇÃO: Criação de páginas em HTML e CSS.
+* 0.1.1 - 20/10/2023
+    * ATUALIZAÇÃO: Páginas em HTML e CSS finalizadas e revisadas.
+* 0.1.0 - 03/11/2023
     * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
-    * Trabalho em andamento
+    * MUDANÇA: Remoção de componentes.
+* 0.0.1 - 10/11/2023
+    * Trabalho na reta final.
 
 ## 📋 Licença/License
 

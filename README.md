@@ -69,16 +69,20 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 
 A cada atualização os detalhes devem ser lançados aqui.
 
-* 0.2.1 - 09/09/2023
+* 0.0.1 - 09/09/2023
     * ATUALIZAÇÃO: Início do protótipo no figma.
-* 0.2.0 - 21/09/2023
+* 0.1.0 - 21/09/2023
     * ATUALIZAÇÃO: Criação de páginas em HTML e CSS.
 * 0.1.1 - 20/10/2023
     * ATUALIZAÇÃO: Páginas em HTML e CSS finalizadas e revisadas.
-* 0.1.0 - 03/11/2023
-    * O primeiro lançamento adequado
+* 0.2.0 - 28/10/2023
+    * Início do Back-end
     * MUDANÇA: Remoção de componentes.
-* 0.0.1 - 10/11/2023
+* 0.2.1 - 03/11/2023
+    * Finalizando Back-end
+    * MUDANÇA: Reajuste de componentes.
+* 0.3.0 - 10/11/2023
+    * Revisão.  
     * Trabalho na reta final.
 
 ## 📋 Licença/License

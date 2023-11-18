@@ -51,7 +51,7 @@ O projeto Cem Vezes Mais tem a missão de, por meio do esporte, cultura e educa�
 <b>Windows:</b>
 
 Não há instalação! Apenas executável!
-Encontre o arquivo "app.js" e execute o arquivo no prompt com o comando "node app.js" no prompt e verifique que está no diretório do arquivo
+Encontre o arquivo "app.js" e execute o arquivo no prompt com o comando "node app.js" e verifique que está no diretório do arquivo
 
 ```sh
 node app.js

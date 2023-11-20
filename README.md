@@ -93,12 +93,9 @@ npm i cookie-parser jsonwebtoken
 npm i nodemailer
 npm i path http
 ```
- 3- Por fim, a execução:
+ 3- Por fim, encontre o arquivo "app.js" e execute o arquivo no prompt com o comando e verifique que está no diretório do arquivo:
  
 <b>Execução:</b>
-
-Encontre o arquivo "app.js" e execute o arquivo no prompt com o comando "node app.js" e verifique que está no diretório do arquivo
-
 ```sh
 node app.js
 ```

@@ -20,7 +20,7 @@
 -
 </p>
 
-O projeto Cem Vezes Mais tem a missão de, por meio do esporte, cultura e educação, ajudar na transformação de vidas e inclusão social de crianças, adolescentes e jovens de comunidades vulneráveis.
+O projeto Cem Vezes Mais tem a missão de, por meio do esporte, cultura e educação, ajudar na transformação de vidas e inclusão social de crianças, adolescentes e jovens de comunidades vulneráveis. Com a visão de resgatar sonhos e restabelecer a esperança de crianças, adolescentes e jovens em situação de vulnerabilidade, afim de oferecer-lhes um presente mais digno e um futuro mais promissor.
 <br><br>
 
 ## 🛠 Estrutura de pastas

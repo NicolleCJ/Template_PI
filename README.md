@@ -13,7 +13,7 @@
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander</a>, <a href="">Adriano Felix Valente</a>, <a href="">Eduardo Savino</a>, <a href="">Aimar Martins Lopes</a>
 
-## Descrição do Projeto
+## 💬 Descrição do Projeto
 
 <p align="center">
 <img src="imagens/jpg.jfif" alt="WWC" border="0">
@@ -54,7 +54,7 @@ Há também 4 pastas que seguem da seguinte forma:
 
 <b>src</b>: Pasta que contém o código fonte.
 
-## Desenvolvimento
+## 🛠️ Desenvolvimento
 
 <b>Front-end</b>
 
@@ -71,7 +71,8 @@ Há também 4 pastas que seguem da seguinte forma:
 - Docker: Plataforma para criação de ambientes isolados.
 
 <b>UX/UI Design</b>
-  
+
+
 
 ## 💻 Configuração para Desenvolvimento
 

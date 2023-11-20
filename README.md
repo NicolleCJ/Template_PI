@@ -66,17 +66,17 @@ Há também 4 pastas que seguem da seguinte forma:
 
 <b>Front-end</b>
 
-- HTML:
+- HTML: Estrutura do conteúdo da web.
 
-- CSS:
+- CSS: Estilização da página web.
 
 <b>Back-end</b>
 
-- Node.js:
+- Node.js: Ferramenta para a execução do JavaScript
 
-- MySQL:
+- MySQL: Sistema de gerenciamento de base de dados.
 
-- Docker:
+- Docker: Plataforma para criação de ambientes isolados.
 
 <b>UX/UI Design</b>
   
@@ -98,8 +98,6 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 -<a href="https://docs.docker.com/engine/release-notes/24.0/">Docker v24.0.6</a>
 
 ## 🗃 Histórico de lançamentos
-
-A cada atualização os detalhes devem ser lançados aqui.
 
 * 0.0.1 - 09/09/2023
     * ATUALIZAÇÃO: Início do protótipo no figma.

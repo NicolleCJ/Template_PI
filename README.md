@@ -72,14 +72,6 @@ Há também 4 pastas que seguem da seguinte forma:
 
 <b>UX/UI Design</b>
   
-<b>Windows:</b>
-
-Não há instalação! Apenas executável!
-Encontre o arquivo "app.js" e execute o arquivo no prompt com o comando "node app.js" e verifique que está no diretório do arquivo
-
-```sh
-node app.js
-```
 
 ## 💻 Configuração para Desenvolvimento
 
@@ -88,6 +80,25 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 -<a href="https://nodejs.org/en/blog/release/v16.13.0">NODE v16.13.0</a><br>
 -<a href="https://dev.mysql.com/downloads/installer/">MySQL 8.0.34</a><br>
 -<a href="https://docs.docker.com/engine/release-notes/24.0/">Docker v24.0.6</a>
+
+<b>Execução:</b>
+```sh
+npm i express mysql dotenv hbs
+npm i --save nodemon
+npm i mysql12
+npm i bcryptjs
+npm i cookie-parser jsonwebtoken
+npm i nodemailer
+npm i path http
+```
+
+<b>Execução:</b>
+
+Encontre o arquivo "app.js" e execute o arquivo no prompt com o comando "node app.js" e verifique que está no diretório do arquivo
+
+```sh
+node app.js
+```
 
 ## 🗃 Histórico de lançamentos
 

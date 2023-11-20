@@ -13,30 +13,17 @@
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander</a>, <a href="">Adriano Felix Valente</a>, <a href="">Eduardo Savino</a>, <a href="">Aimar Martins Lopes</a>
 
-## Descrição
+## Descrição do Projeto
 
 <p align="center">
 <img src="imagens/jpg.jfif" alt="WWC" border="0">
 -
 </p>
 
-
 O projeto Cem Vezes Mais tem a missão de, por meio do esporte, cultura e educação, ajudar na transformação de vidas e inclusão social de crianças, adolescentes e jovens de comunidades vulneráveis.
 <br><br>
 
-## 🛠 Estrutura de pastas
-
--Raiz<br>
-|<br>
-|-->documentos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-|-->imagens<br>
-|-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
-|readme.md<br>
+## Desenvolvimento
 
 <b>documentos</b>: Toda a documentação estará nesta pasta.
 
@@ -46,8 +33,20 @@ O projeto Cem Vezes Mais tem a missão de, por meio do esporte, cultura e educa�
 
 <b>src</b>: Pasta que contém o código fonte.
 
-## 🛠 Instalação
+<b>Front-end</b>
 
+- HTML:
+
+- CSS:
+
+<b>Back-end</b>
+
+- Node.js:
+
+- MySQL:
+
+- Docker:
+  
 <b>Windows:</b>
 
 Não há instalação! Apenas executável!

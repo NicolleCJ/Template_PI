@@ -81,7 +81,7 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 -<a href="https://dev.mysql.com/downloads/installer/">MySQL 8.0.34</a><br>
 -<a href="https://docs.docker.com/engine/release-notes/24.0/">Docker v24.0.6</a>
 
-<b>Execução:</b>
+<b>Dependências:</b>
 ```sh
 npm i express mysql dotenv hbs
 npm i --save nodemon

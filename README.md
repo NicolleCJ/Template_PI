@@ -77,6 +77,8 @@ Há também 4 pastas que seguem da seguinte forma:
 - MySQL:
 
 - Docker:
+
+<b>UX/UI Design</b>
   
 <b>Windows:</b>
 

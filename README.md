@@ -75,11 +75,13 @@ Há também 4 pastas que seguem da seguinte forma:
 
 ## 💻 Configuração para Desenvolvimento
 
-Para abrir este projeto você necessita das seguintes ferramentas:
+1- Para abrir este projeto você necessita fazer a instalção das seguintes ferramentas:
 
 -<a href="https://nodejs.org/en/blog/release/v16.13.0">NODE v16.13.0</a><br>
 -<a href="https://dev.mysql.com/downloads/installer/">MySQL 8.0.34</a><br>
 -<a href="https://docs.docker.com/engine/release-notes/24.0/">Docker v24.0.6</a>
+
+2- Com o repositório do projeto, siga a instalação das seguintes dependências:
 
 <b>Dependências:</b>
 ```sh
@@ -91,7 +93,7 @@ npm i cookie-parser jsonwebtoken
 npm i nodemailer
 npm i path http
 ```
-
+ 3- Por fim,, a execução:
 <b>Execução:</b>
 
 Encontre o arquivo "app.js" e execute o arquivo no prompt com o comando "node app.js" e verifique que está no diretório do arquivo
